@@ -1,6 +1,15 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
+declare function describe(description: string, specDefinitions: () => void): void;
+declare function beforeEach(action: () => void | Promise<void>): void;
+declare function it(description: string, testFunction: () => void): void;
+declare function expect(actual: unknown): {
+  toBeTruthy(): void;
+  toEqual(expected: unknown): void;
+  toContain(expected: unknown): void;
+};
+
 describe('AppComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
@@ -14,7 +23,7 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'client' title`, () => {
+  it(`should have the 'Cible Emploi' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
     expect(app.title).toEqual('client');

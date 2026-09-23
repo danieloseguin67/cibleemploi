@@ -10,5 +10,8 @@
     "build:client": "npm run build --workspace client",
     "build": "npm run build:client",
     "start": "npm run start --workspace client"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0"
   }
 }
