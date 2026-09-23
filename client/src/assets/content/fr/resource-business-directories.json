@@ -1,0 +1,22 @@
+{
+  "title": "Répertoires d'entreprises",
+  "intro": [
+    "Saviez-vous que la majorité des emplois ne sont pas affichés? C'est pour cette raison qu'il est important de diversifier ses stratégies de recherche d'emploi. Parmi les méthodes, vous pouvez faire des candidatures spontanées auprès des compagnies qui vous intéressent.",
+    "Pour trouver les entreprises, voici une liste des répertoires d'entreprises qui pourra vous aider. Cette liste est non exhaustive et nous pouvons vous aider à découvrir d'autres ressources selon votre profil et objectif d'emploi."
+  ],
+  "groups": [
+    {
+      "items": [
+        { "label": "Arrondissement.com", "url": "https://www.arrondissement.com/", "description": "Permet de consulter le bottin des organismes et celui des entreprises et préciser votre recherche en sélectionnant la catégorie ainsi que la ville ou l'arrondissement de votre choix." },
+        { "label": "Comités sectoriels de main-d'œuvre (CSMO)", "url": "https://www.cpmt.gouv.qc.ca/reseau-des-partenaires/comites-sectoriels.asp", "description": "Commission des partenaires du marché du travail Québec. Permet de s'informer sur un secteur d'activité et de connaître les besoins en main-d'œuvre." },
+        { "label": "ICRIQ", "url": "https://www.icriq.com/fr/", "description": "Permet de trouver plus de 30 000 profils d'entreprises du Québec pour les manufacturiers, distributeurs et grossistes et entreprises de services aux industries." },
+        { "label": "IMT – Répertoire d'entreprises", "url": "https://imt.emploiquebec.gouv.qc.ca/mtg/inter/noncache/contenu/asp/ice621_rechrentrp_01.asp?lang=FRAN&Porte=4", "description": "Permet de trouver les entreprises comptant cinq employés et plus." },
+        { "label": "LinkedIn", "url": "https://ca.linkedin.com/", "description": "Le réseau professionnel mondial le plus large. Permet de constituer votre réseau professionnel, consulter des offres d'emploi et être repéré par des recruteurs." },
+        { "label": "Million Dollar Database", "url": "https://numerique.banq.qc.ca/ressources/details/5347", "description": "Permet de répertorier les entreprises canadiennes et américaines. Base de données accessible à la Grande Bibliothèque (BAnQ) uniquement pour les abonnés." },
+        { "label": "Pages Jaunes", "url": "https://www.pagesjaunes.ca/", "description": "Permet des recherches d'entreprises, de produits et de services au Canada." },
+        { "label": "Registraire des entreprises Québec", "url": "https://www.registreentreprises.gouv.qc.ca/fr/default.aspx", "description": "Permet d'identifier des informations au sujet des entreprises : type juridique, administrateurs, date de création, etc." },
+        { "label": "Tout Montréal", "url": "https://www.toutmontreal.com/", "description": "Annuaire de Montréal et ses environs comptant plus de 20 000 inscriptions." }
+      ]
+    }
+  ]
+}

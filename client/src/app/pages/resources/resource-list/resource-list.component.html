@@ -1,0 +1,15 @@
+<ng-container *ngIf="content() as page">
+  <h1>{{ page.title }}</h1>
+  <p *ngFor="let paragraph of page.intro">{{ paragraph }}</p>
+
+  <section class="group" *ngFor="let group of page.groups">
+    <h2 *ngIf="group.heading">{{ group.heading }}</h2>
+    <ul class="resource-items">
+      <li *ngFor="let item of group.items">
+        <a [href]="item.url" target="_blank" rel="noopener noreferrer">{{ item.label }}</a>
+        <p class="address" *ngIf="item.address">{{ item.address }}</p>
+        <p class="description" *ngIf="item.description">{{ item.description }}</p>
+      </li>
+    </ul>
+  </section>
+</ng-container>

@@ -1,0 +1,22 @@
+{
+  "title": "Business Directories",
+  "intro": [
+    "Did you know that most jobs are not advertised? That's why it's important to diversify your job search strategies. Among these methods, you can make spontaneous applications to companies that interest you.",
+    "To find companies, here is a list of business directories that can help you. This list is not exhaustive, and we can help you discover other resources based on your profile and job goals."
+  ],
+  "groups": [
+    {
+      "items": [
+        { "label": "Arrondissement.com", "url": "https://www.arrondissement.com/", "description": "Lets you browse a directory of organizations and businesses and refine your search by category as well as by city or borough of your choice." },
+        { "label": "Sector Workforce Committees (CSMO)", "url": "https://www.cpmt.gouv.qc.ca/reseau-des-partenaires/comites-sectoriels.asp", "description": "Quebec's Commission des partenaires du marché du travail. Lets you learn about a sector of activity and its workforce needs." },
+        { "label": "ICRIQ", "url": "https://www.icriq.com/fr/", "description": "Lets you find over 30,000 company profiles in Quebec for manufacturers, distributors and wholesalers, and industrial service companies." },
+        { "label": "IMT – Business Directory", "url": "https://imt.emploiquebec.gouv.qc.ca/mtg/inter/noncache/contenu/asp/ice621_rechrentrp_01.asp?lang=FRAN&Porte=4", "description": "Lets you find companies with five employees or more." },
+        { "label": "LinkedIn", "url": "https://ca.linkedin.com/", "description": "The largest professional network in the world. Lets you build your professional network, browse job postings, and be found by recruiters." },
+        { "label": "Million Dollar Database", "url": "https://numerique.banq.qc.ca/ressources/details/5347", "description": "Lets you look up Canadian and American companies. Database accessible at the Grande Bibliothèque (BAnQ) for subscribers only." },
+        { "label": "Yellow Pages", "url": "https://www.pagesjaunes.ca/", "description": "Lets you search for businesses, products, and services across Canada." },
+        { "label": "Quebec Enterprise Register", "url": "https://www.registreentreprises.gouv.qc.ca/fr/default.aspx", "description": "Lets you find information about businesses: legal type, directors, incorporation date, etc." },
+        { "label": "Tout Montréal", "url": "https://www.toutmontreal.com/", "description": "Directory of Montreal and the surrounding area with more than 20,000 listings." }
+      ]
+    }
+  ]
+}

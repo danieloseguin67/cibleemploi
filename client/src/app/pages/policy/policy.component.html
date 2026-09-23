@@ -1,0 +1,18 @@
+<ng-container *ngIf="content() as page">
+  <h1>{{ page.title }}</h1>
+  <p class="adopted-note" *ngIf="page.adoptedNote">{{ page.adoptedNote }}</p>
+
+  <section class="chapter" *ngFor="let chapter of page.chapters">
+    <h2>{{ chapter.heading }}</h2>
+    <article class="article" *ngFor="let article of chapter.articles">
+      <h3 *ngIf="article.heading">{{ article.number ? article.number + '. ' : '' }}{{ article.heading }}</h3>
+      <p *ngFor="let paragraph of article.paragraphs">{{ paragraph }}</p>
+    </article>
+  </section>
+
+  <a class="download-link" *ngIf="page.downloadUrl" [href]="page.downloadUrl" target="_blank" rel="noopener noreferrer">{{ page.downloadLabel }}</a>
+
+  <div class="contact-note" *ngIf="page.contactNote">
+    <p *ngFor="let line of page.contactNote">{{ line }}</p>
+  </div>
+</ng-container>

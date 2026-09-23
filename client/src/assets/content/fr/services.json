@@ -1,0 +1,15 @@
+{
+  "title": "Nos services",
+  "services": [
+    {
+      "title": "Aide à la recherche d'emploi",
+      "excerpt": "Avez-vous besoin d'accompagnement personnalisé pour la recherche d'emploi? Aimeriez-vous optimiser vos stratégies pour décrocher votre prochain emploi? Si oui, l'équipe de conseillers de Cible Retour à l'Emploi est là pour vous aider.",
+      "path": "services/job-search-assistance"
+    },
+    {
+      "title": "Méthode de recherche d'emploi",
+      "excerpt": "L'équipe Cible Retour à l'Emploi vous propose un accompagnement accéléré sur 6 rencontres pour aborder votre retour à l'emploi de la façon la plus efficiente qui soit.",
+      "path": "services/job-search-method"
+    }
+  ]
+}

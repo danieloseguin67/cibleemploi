@@ -1,0 +1,31 @@
+<ng-container *ngIf="content() as page">
+  <h1>{{ page.title }}</h1>
+  <p class="intro-line" *ngFor="let line of page.intro">{{ line }}</p>
+
+  <h2>{{ page.serviceDescription }}</h2>
+  <ul>
+    <li *ngFor="let item of page.serviceItems">{{ item }}</li>
+  </ul>
+
+  <dl class="details">
+    <dt>Admissibilité</dt>
+    <dd>{{ page.eligibility }}</dd>
+    <dt>Fréquence</dt>
+    <dd>{{ page.frequency }}</dd>
+    <dt>Durée</dt>
+    <dd>{{ page.duration }}</dd>
+  </dl>
+
+  <a class="cta" *ngIf="page.ctaLabel && page.ctaPath" [routerLink]="page.ctaPath | localePath">{{ page.ctaLabel }}</a>
+
+  <section class="testimonials" *ngIf="page.testimonials?.length">
+    <h2>Témoignages</h2>
+    <blockquote *ngFor="let testimonial of page.testimonials">
+      <h3>{{ testimonial.title }}</h3>
+      <p>{{ testimonial.body }}</p>
+      <cite>— {{ testimonial.attribution }}</cite>
+    </blockquote>
+  </section>
+
+  <p class="funded-by" *ngIf="page.fundedBy">{{ page.fundedBy }}</p>
+</ng-container>

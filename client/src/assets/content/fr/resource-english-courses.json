@@ -1,0 +1,22 @@
+{
+  "title": "Cours d'anglais",
+  "intro": [
+    "Voici une liste non exhaustive d'endroits où vous pouvez vous inscrire pour apprendre l'anglais ou pour améliorer vos compétences. Vous trouverez des cours de communication orale et écrite, de niveau débutant à avancé, offerts de jour ou de soir."
+  ],
+  "groups": [
+    {
+      "items": [
+        { "label": "Cégep André-Laurendeau", "url": "https://www.claurendeau.qc.ca/formation-continue/interagir-avec-un-interlocuteur-en-anglais-dans-un-contexte-daffaires/", "address": "111, rue Lapierre — 514 364-3320" },
+        { "label": "Cégep Saint-Laurent", "url": "https://www.cegepsl.qc.ca/etudes/formation-generale/anglais/", "address": "625, avenue Saint-Croix — 514 747-6521" },
+        { "label": "Centre communautaire de loisirs Sainte-Catherine d'Alexandrie", "url": "https://www.cclsca.qc.ca/", "address": "1700, rue Amherst — 514 524-6626" },
+        { "label": "Centre d'éducation des adultes James Lyng", "url": "https://www.jlac.ca/", "address": "5440, rue Notre-Dame Ouest — 514 846-0019" },
+        { "label": "Centre d'éducation des adultes John F. Kennedy", "url": "https://www.jfkac.ca/", "address": "3030, rue Villeray — 514 374-2888" },
+        { "label": "Centre d'éducation des adultes Wagar", "url": "https://www.emsb.qc.ca/wagar/indexfr.asp", "address": "5785, avenue Parkhaven — 514 488-8203" },
+        { "label": "Collège Dawson", "url": "https://www.dawsoncollege.qc.ca/ctd", "address": "3040, rue Sherbrooke Ouest — 514 931-8731" },
+        { "label": "Commission scolaire Lester B. Pearson", "url": "https://www.lbpce.ca/Adult-Education/Language-Classes", "address": "8300, rue George — 514 798-5588" },
+        { "label": "École internationale de langues YMCA", "url": "https://www.ymcalangues.ca/", "address": "1440, rue Stanley, 5e étage — 514 789-8000" },
+        { "label": "Galileo Centre d'éducation aux adultes", "url": "https://www.gaec.ca/", "address": "10921, avenue Gariépy — 514 721-0120" }
+      ]
+    }
+  ]
+}

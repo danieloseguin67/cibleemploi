@@ -1,0 +1,26 @@
+{
+  "heroTitle": "Cible Retour à l'Emploi",
+  "heroImage": "assets/images/bandeau_CibleRetouralEmploi.jpg",
+  "heroTagline": "Centre-conseil en emploi, membre d'AXTRA",
+  "aboutTeaser": {
+    "heading": "À propos",
+    "paragraphs": [
+      "L'équipe de Cible Retour à l'Emploi est fière d'aider les chercheurs d'emploi à mieux comprendre le marché du travail, à les accompagner dans leur démarche et à contribuer à l'atteinte de leurs objectifs.",
+      "Depuis plus de 25 ans, nous avons aidé les montréalaises et montréalais, quels que soient leurs niveaux de scolarité, leurs origines ou leurs domaines d'activités. Grâce à nos services, nous avons contribué à améliorer la vie de milliers d'individus et de familles."
+    ]
+  },
+  "aboutLinks": [
+    { "label": "L'organisme", "path": "about/organization" },
+    { "label": "L'équipe", "path": "about/team" },
+    { "label": "Le conseil d'administration", "path": "about/board" }
+  ],
+  "hoursNotice": "Veuillez noter que nous sommes en télétravail les lundi et les vendredi",
+  "hoursTitle": "Nos bureaux sont ouverts",
+  "hours": [
+    { "day": "Lundi", "time": "10 h à midi, puis de 13 h à 16 h 30" },
+    { "day": "Mardi", "time": "8 h 30 à midi, puis de 13 h à 16 h 30" },
+    { "day": "Mercredi", "time": "8 h 30 à midi, puis de 13 h à 16 h 30" },
+    { "day": "Jeudi", "time": "8 h 30 à midi, puis de 13 h à 16 h 30" },
+    { "day": "Vendredi", "time": "8 h 30 à midi, puis de 13 h à 16 h 30" }
+  ]
+}

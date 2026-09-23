@@ -1,0 +1,22 @@
+{
+  "title": "English Courses",
+  "intro": [
+    "Here is a non-exhaustive list of places where you can enroll to learn English or improve your skills. You will find spoken and written communication courses, from beginner to advanced level, offered during the day or in the evening."
+  ],
+  "groups": [
+    {
+      "items": [
+        { "label": "Cégep André-Laurendeau", "url": "https://www.claurendeau.qc.ca/formation-continue/interagir-avec-un-interlocuteur-en-anglais-dans-un-contexte-daffaires/", "address": "111 Lapierre Street — 514 364-3320" },
+        { "label": "Cégep Saint-Laurent", "url": "https://www.cegepsl.qc.ca/etudes/formation-generale/anglais/", "address": "625 Saint-Croix Avenue — 514 747-6521" },
+        { "label": "Centre communautaire de loisirs Sainte-Catherine d'Alexandrie", "url": "https://www.cclsca.qc.ca/", "address": "1700 Amherst Street — 514 524-6626" },
+        { "label": "James Lyng Adult Education Centre", "url": "https://www.jlac.ca/", "address": "5440 Notre-Dame Street West — 514 846-0019" },
+        { "label": "John F. Kennedy Adult Education Centre", "url": "https://www.jfkac.ca/", "address": "3030 Villeray Street — 514 374-2888" },
+        { "label": "Wagar Adult Education Centre", "url": "https://www.emsb.qc.ca/wagar/indexfr.asp", "address": "5785 Parkhaven Avenue — 514 488-8203" },
+        { "label": "Dawson College", "url": "https://www.dawsoncollege.qc.ca/ctd", "address": "3040 Sherbrooke Street West — 514 931-8731" },
+        { "label": "Lester B. Pearson School Board", "url": "https://www.lbpce.ca/Adult-Education/Language-Classes", "address": "8300 George Street — 514 798-5588" },
+        { "label": "YMCA International Language School", "url": "https://www.ymcalangues.ca/", "address": "1440 Stanley Street, 5th floor — 514 789-8000" },
+        { "label": "Galileo Adult Education Centre", "url": "https://www.gaec.ca/", "address": "10921 Gariépy Avenue — 514 721-0120" }
+      ]
+    }
+  ]
+}

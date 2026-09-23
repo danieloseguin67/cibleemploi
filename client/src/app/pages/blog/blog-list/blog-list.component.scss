@@ -1,0 +1,28 @@
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.post-card {
+  background: #f7fafc;
+  border-radius: 8px;
+  padding: 1.25rem;
+
+  h2 {
+    color: #0f5c8c;
+    font-size: 1.1rem;
+  }
+
+  .author {
+    font-size: 0.8rem;
+    color: #5a6b75;
+  }
+
+  a {
+    color: #0f5c8c;
+    font-weight: 700;
+    text-decoration: none;
+  }
+}

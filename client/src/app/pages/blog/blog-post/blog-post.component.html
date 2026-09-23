@@ -1,0 +1,6 @@
+<ng-container *ngIf="post() as article">
+  <a class="back-link" [routerLink]="'blog' | localePath">← {{ ui()?.common?.backToList }}</a>
+  <h1>{{ article.title }}</h1>
+  <p class="author" *ngIf="article.author">{{ article.author }}</p>
+  <p *ngFor="let paragraph of article.paragraphs">{{ paragraph }}</p>
+</ng-container>

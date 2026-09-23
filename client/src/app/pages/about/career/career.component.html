@@ -1,0 +1,30 @@
+<ng-container *ngIf="content() as page">
+  <h1>{{ page.title }}</h1>
+  <p *ngFor="let paragraph of page.body.paragraphs">{{ paragraph }}</p>
+
+  <div class="success-banner" *ngIf="submitted()">{{ ui()?.common?.submitSuccess }}</div>
+
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" class="career-form" *ngIf="!submitted()">
+    <label>
+      {{ page.form.nameLabel }}
+      <input type="text" formControlName="name" />
+      <span class="error" *ngIf="form.controls.name.touched && form.controls.name.invalid">{{ ui()?.common?.requiredField }}</span>
+    </label>
+    <label>
+      {{ page.form.emailLabel }}
+      <input type="email" formControlName="email" />
+      <span class="error" *ngIf="form.controls.email.touched && form.controls.email.invalid">{{ ui()?.common?.invalidEmail }}</span>
+    </label>
+    <label>
+      {{ page.form.positionLabel }}
+      <input type="text" formControlName="position" />
+      <span class="error" *ngIf="form.controls.position.touched && form.controls.position.invalid">{{ ui()?.common?.requiredField }}</span>
+    </label>
+    <label>
+      {{ page.form.messageLabel }}
+      <textarea rows="5" formControlName="message"></textarea>
+      <span class="error" *ngIf="form.controls.message.touched && form.controls.message.invalid">{{ ui()?.common?.requiredField }}</span>
+    </label>
+    <button type="submit">{{ page.form.submitLabel }}</button>
+  </form>
+</ng-container>

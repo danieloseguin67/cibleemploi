@@ -1,0 +1,26 @@
+{
+  "heroTitle": "Cible Retour à l'Emploi",
+  "heroImage": "assets/images/bandeau_CibleRetouralEmploi.jpg",
+  "heroTagline": "Employment counselling centre, member of AXTRA",
+  "aboutTeaser": {
+    "heading": "About Us",
+    "paragraphs": [
+      "The Cible Retour à l'Emploi team is proud to help job seekers better understand the labour market, support them throughout their process, and contribute to achieving their goals.",
+      "For more than 25 years, we have helped Montrealers of all education levels, backgrounds, and fields of activity. Through our services, we have contributed to improving the lives of thousands of individuals and families."
+    ]
+  },
+  "aboutLinks": [
+    { "label": "The Organization", "path": "about/organization" },
+    { "label": "The Team", "path": "about/team" },
+    { "label": "Board of Directors", "path": "about/board" }
+  ],
+  "hoursNotice": "Please note that we work remotely on Mondays and Fridays",
+  "hoursTitle": "Our offices are open",
+  "hours": [
+    { "day": "Monday", "time": "10 a.m. to noon, then 1 p.m. to 4:30 p.m." },
+    { "day": "Tuesday", "time": "8:30 a.m. to noon, then 1 p.m. to 4:30 p.m." },
+    { "day": "Wednesday", "time": "8:30 a.m. to noon, then 1 p.m. to 4:30 p.m." },
+    { "day": "Thursday", "time": "8:30 a.m. to noon, then 1 p.m. to 4:30 p.m." },
+    { "day": "Friday", "time": "8:30 a.m. to noon, then 1 p.m. to 4:30 p.m." }
+  ]
+}

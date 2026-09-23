@@ -1,0 +1,19 @@
+{
+  "title": "Méthode de recherche d'emploi",
+  "intro": [
+    "L'équipe Cible Retour à l'Emploi vous propose un accompagnement accéléré sur 6 rencontres. Ensemble, nous aborderons votre retour à l'emploi de la façon la plus efficiente qui soit."
+  ],
+  "serviceDescription": "Notre service comprend :",
+  "serviceItems": [
+    "L'évaluation de vos besoins, préférences et aspirations professionnelles",
+    "Les différentes approches de recherches d'emploi",
+    "L'élaboration d'un CV valorisant",
+    "La rédaction d'une lettre de présentation attractive",
+    "La préparation d'entrevue selon les besoins"
+  ],
+  "eligibility": "Pour les personnes âgées de 16 ans et plus, détenant au minimum un secondaire 3.",
+  "frequency": "Les rencontres se feront à raison d'une rencontre par semaine jusqu'à l'obtention d'un emploi ou jusqu'à un maximum de 6.",
+  "duration": "Maximum 6 rencontres.",
+  "ctaLabel": "Inscrivez-vous!",
+  "ctaPath": "contact"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Job Search Method",
+  "intro": [
+    "The Cible Retour à l'Emploi team offers you accelerated support over 6 meetings. Together, we will approach your return to work in the most efficient way possible."
+  ],
+  "serviceDescription": "Our service includes:",
+  "serviceItems": [
+    "Assessment of your professional needs, preferences, and aspirations",
+    "Different job search approaches",
+    "Developing an effective resume",
+    "Writing an attractive cover letter",
+    "Interview preparation based on your needs"
+  ],
+  "eligibility": "For people aged 16 and over, with at least a Secondary 3 education.",
+  "frequency": "Meetings take place once a week until a job is obtained, up to a maximum of 6 meetings.",
+  "duration": "Maximum 6 meetings.",
+  "ctaLabel": "Sign up!",
+  "ctaPath": "contact"
+}

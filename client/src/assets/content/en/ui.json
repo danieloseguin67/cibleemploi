@@ -1,0 +1,89 @@
+{
+  "tagline": "Employment counselling centre, member of AXTRA",
+  "nav": [
+    { "label": "Home", "path": "" },
+    {
+      "label": "About us",
+      "path": "about",
+      "children": [
+        { "label": "The Organization", "path": "about/organization" },
+        { "label": "The Team", "path": "about/team" },
+        { "label": "Board of Directors", "path": "about/board" },
+        { "label": "Career", "path": "about/career" }
+      ]
+    },
+    {
+      "label": "Our Services",
+      "path": "services",
+      "children": [
+        { "label": "Job Search Assistance", "path": "services/job-search-assistance" },
+        { "label": "Job Search Method", "path": "services/job-search-method" }
+      ]
+    },
+    { "label": "Trouve Ton X", "path": "", "externalUrl": "https://www.trouvetonx.ca/" },
+    {
+      "label": "Our Blog",
+      "path": "blog",
+      "children": [
+        { "label": "Comment faire évoluer votre carrière grâce au soutien d'un.e conseiller/conseillère en emploi?", "path": "blog/comment-faire-evoluer-votre-carriere" },
+        { "label": "Douter lors du dépôt de sa candidature, comment s'y repérer?", "path": "blog/douter-lors-du-depot-de-sa-candidature" },
+        { "label": "L'apport de l'employabilité à la société québécoise", "path": "blog/apport-employabilite-societe-quebecoise" },
+        { "label": "Santé mentale et bien-être au travail", "path": "blog/sante-mentale-et-bien-etre-au-travail" },
+        { "label": "Le harcèlement psychologique au travail : mieux vaut prévenir que guérir", "path": "blog/harcelement-psychologique-au-travail" },
+        { "label": "Qui fait quoi dans le système?", "path": "blog/qui-fait-quoi-dans-le-systeme" },
+        { "label": "Inclusion", "path": "blog/inclusion" },
+        { "label": "Prêt à décoller", "path": "blog/pret-a-decoller" },
+        { "label": "Google moteur de votre recherche d'emploi? Pourquoi pas!", "path": "blog/google-moteur-de-votre-recherche-demploi" },
+        { "label": "Télétravailler de la bonne façon", "path": "blog/teletravailler-de-la-bonne-facon" },
+        { "label": "Je me souviens", "path": "blog/je-me-souviens" },
+        { "label": "2020 a tout changé. Et alors?", "path": "blog/2020-a-tout-change-et-alors" },
+        { "label": "Trouver son équilibre mental", "path": "blog/trouver-son-equilibre-mental" }
+      ]
+    },
+    {
+      "label": "Tools and Resources",
+      "path": "resources",
+      "children": [
+        { "label": "Summary of the Information Session", "path": "resources/info-session" },
+        { "label": "Job Search Sites", "path": "resources/job-sites" },
+        { "label": "Business Directories", "path": "resources/business-directories" },
+        { "label": "English Courses", "path": "resources/english-courses" },
+        { "label": "Francization Services", "path": "resources/francization" },
+        { "label": "Policy on the Handling of Complaints", "path": "resources/complaints-policy" },
+        { "label": "Harassment Prevention Policy", "path": "harassment-policy" }
+      ]
+    },
+    { "label": "Contact Us", "path": "contact" }
+  ],
+  "languageSwitchLabel": "Français",
+  "footer": {
+    "orgTitle": "Cible Retour à l'Emploi",
+    "addressLines": ["4740 Wellington Street", "3rd floor, suite 302", "Verdun, Quebec H4G 1X3", "(De L'Église metro)"],
+    "hoursTitle": "Our offices are open",
+    "hoursLines": [
+      "Monday from 10 a.m. to noon, then 1 p.m. to 4:30 p.m.",
+      "Tuesday from 8:30 a.m. to noon, then 1 p.m. to 4:30 p.m.",
+      "Wednesday from 8:30 a.m. to noon, then 1 p.m. to 4:30 p.m.",
+      "Thursday from 8:30 a.m. to noon, then 1 p.m. to 4:30 p.m.",
+      "Friday from 8:30 a.m. to noon, then 1 p.m. to 4:30 p.m."
+    ],
+    "contactTitle": "To contact us",
+    "phoneLabel": "Phone: 514 362-7340, ext. 221",
+    "emailLabel": "Email: info@cibleretour.com",
+    "socialTitle": "Social media",
+    "copyright": "Copyright © 2026 Cible Retour à l'Emploi, Developed by Daniel Seguin"
+  },
+  "common": {
+    "readMore": "Read more",
+    "submit": "Send",
+    "submitSuccess": "Thank you, your message has been sent.",
+    "requiredField": "This field is required.",
+    "invalidEmail": "Please enter a valid email address.",
+    "backToList": "Back to list"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "Sorry, the page you are looking for no longer exists.",
+    "homeLink": "Back to home"
+  }
+}

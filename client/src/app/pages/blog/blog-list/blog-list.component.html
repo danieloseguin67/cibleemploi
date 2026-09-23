@@ -1,0 +1,9 @@
+<h1>Notre blogue</h1>
+<div class="post-grid">
+  <article class="post-card" *ngFor="let post of posts()">
+    <h2>{{ post.title }}</h2>
+    <p class="author" *ngIf="post.author">{{ post.author }}</p>
+    <p>{{ post.excerpt }}</p>
+    <a [routerLink]="('blog/' + post.slug) | localePath">{{ ui()?.common?.readMore }}</a>
+  </article>
+</div>

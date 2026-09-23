@@ -1,0 +1,49 @@
+{
+  "title": "Ressources en francisation",
+  "intro": [
+    "Vous avez besoin d'améliorer vos habiletés de communication orale et écrite en français? Des cours de francisation vous aideront à faciliter votre intégration au marché du travail. Voici quelques endroits où vous pouvez suivre ces formations."
+  ],
+  "groups": [
+    {
+      "heading": "Écoles de langues",
+      "items": [
+        { "label": "Agence Ometz", "url": "https://www.ometz.ca/calendrier/", "address": "5151, chemin de la Côte-Sainte-Catherine — 514 342-0000" },
+        { "label": "Association récréative Milton-Parc", "url": "https://miltonpark.org/cours-de-langues/", "address": "3555, rue St-Urbain — 514 872-0566" },
+        { "label": "Cégep André-Laurendeau", "url": "https://www.claurendeau.qc.ca/formations-continue/langues-et-francisation/", "address": "1111, rue Lapierre — 514 364-3320" },
+        { "label": "Cégep de St-Laurent", "url": "https://www.cegepsl.qc.ca/formation-continue/francisation/", "address": "625, av. Sainte-Croix — 514 747-6521, poste 8888" },
+        { "label": "Cégep Marie-Victorin", "url": "https://www.collegemv.qc.ca/formation_aux_adultes/services-aux-personnes-immigrantes/francisation", "address": "5010, rue Paré — 514 733-3232, poste 4110" },
+        { "label": "Cégep Vanier", "url": "https://www.vaniercollege.qc.ca/french/fr/", "address": "821 av. Sainte-Croix — 514 744-7500, poste 6018" },
+        { "label": "Centre communautaire Tyndale St-Georges", "url": "https://www.tyndalestgeorges.com/adult-development.html", "address": "753, rue des Seigneurs — 514 989-2155" },
+        { "label": "Centre d'éducation des adultes Champlain", "url": "https://www3.csmb.qc.ca/ecoles/ceachamplain/", "address": "1050, 5e Avenue — 514 765-7686" },
+        { "label": "CLAM Carrefour de Liaison et d'Aide Multiethnique", "url": "https://www.leclam.ca/francisation", "address": "7200, rue Hutchison, suite 110 — 514 271-8207" },
+        { "label": "Collège Dawson", "url": "https://www.dawsoncollege.qc.ca/ctd/courses-offered/languages/", "address": "4001, boul. de Maisonneuve Ouest, Local 2G.1 — 514 933-0047" },
+        { "label": "Collège de Maisonneuve", "url": "https://www.cmaisonneuve.qc.ca/international-interculturel/langues/francais-langue-seconde/", "address": "3800, rue Sherbrooke Est — 514 254-7131, poste 4851" },
+        { "label": "Commission scolaire de Montréal", "url": "https://csdm.ca/education-adultes/programmes/francais-langue-seconde/", "address": "3000, rue Beaubien Est — 514 596-4567" },
+        { "label": "Commission scolaire Marguerite-Bourgeoys (CSMB)", "url": "https://international.servicescsmb.com/", "address": "514 765-7500, poste 7531" },
+        { "label": "École internationale de langues YMCA", "url": "https://www.ymcalangues.com/", "address": "1440, rue Stanley, 5e étage — 514 789-8000" },
+        { "label": "HEC Montréal", "url": "https://francaisaffaires-immersion.hec.ca/", "address": "3000, chemin de la Côte-Sainte-Catherine — 514 340-6000, poste 2234" },
+        { "label": "Langues mobilités inc.", "url": "https://www.languesmobilite.ca/", "address": "232 boul. Curé-Labelle, suite 201 — 450 621-0706" },
+        { "label": "LPS École de langues centrée sur la conversation", "url": "https://ecolelps.com/a-propos/", "address": "505, boul. René-Lévesque Ouest, local 1101 — 514 878-2821" },
+        { "label": "Université de Montréal", "url": "https://fep.umontreal.ca/formations/ecole-de-langues/francais-langue-seconde/", "address": "3744, rue Jean-Brillant, local 320 — 514 343-6090" },
+        { "label": "Université McGill", "url": "https://www.mcgill.ca/continuingstudies/fr/programmes-et-cours/langues/programmes-de-francais/certificat-de-competence-francais-pour-la-communication-professionnelle", "address": "688, rue Sherbrooke Ouest — 514 398-6200" },
+        { "label": "UQAM", "url": "https://www.etudier.uqam.ca/programme?code=4650", "address": "320, rue Sainte-Catherine Est, Local DS-R110 — 514 987-3132" }
+      ]
+    },
+    {
+      "heading": "Cours en ligne",
+      "items": [
+        { "label": "Babbel", "url": "https://lp.babbel.com/d/FRA_index.html" },
+        { "label": "Cégep à distance", "url": "https://cegepadistance.ca/accueil-reseau-education/partenariats/exemple-de-partenariats/francisation-en-ligne/" },
+        { "label": "Immigration, Diversité et Inclusion Québec", "url": "https://www.immigration-quebec.gouv.qc.ca/fr/langue-francaise/apprendre-ligne/index.html" },
+        { "label": "Podcast français facile", "url": "https://www.podcastfrancaisfacile.com/" },
+        { "label": "Université Laval", "url": "https://www.elul.ulaval.ca/nos-cours/francais-langue-maternelle/cours-a-distance/" }
+      ]
+    },
+    {
+      "heading": "Rencontre pour la conversation",
+      "items": [
+        { "label": "Meetup Montreal", "url": "https://www.meetup.com/FrenchEnglishMontreal/" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Our Services",
+  "services": [
+    {
+      "title": "Job Search Assistance",
+      "excerpt": "Do you need personalized support for your job search? Would you like to optimize your strategies to land your next job? If so, the team of counsellors at Cible Retour à l'Emploi is here to help you.",
+      "path": "services/job-search-assistance"
+    },
+    {
+      "title": "Job Search Method",
+      "excerpt": "The Cible Retour à l'Emploi team offers you accelerated support over 6 meetings to approach your return to work in the most efficient way possible.",
+      "path": "services/job-search-method"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.member-card {
+  background: #f7fafc;
+  border-radius: 8px;
+  padding: 1.25rem;
+  border-left: 4px solid #0f5c8c;
+
+  h2 {
+    margin: 0 0 0.25rem;
+    font-size: 1.1rem;
+    color: #0f5c8c;
+  }
+
+  .role {
+    font-weight: 600;
+    color: #5a6b75;
+    margin-bottom: 0.75rem;
+  }
+
+  .quote {
+    font-style: italic;
+    font-size: 0.9rem;
+    white-space: pre-line;
+  }
+
+  .attribution {
+    font-size: 0.85rem;
+    color: #5a6b75;
+    text-align: right;
+  }
+}

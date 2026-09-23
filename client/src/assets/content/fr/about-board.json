@@ -1,0 +1,25 @@
+{
+  "title": "Le conseil d'administration",
+  "members": [
+    {
+      "name": "Mike Kairouz",
+      "role": "Président",
+      "quote": "Depuis mon arrivé sur le conseil d'administration en 2010, j'aspire à attirer des talents multidisciplinaires afin qu'ensemble, nous puissions appuyer Cible Retour à l'emploi face aux différents obstacles auxquels il fait face quotidiennement. L'emploi est une noble cause, c'est une base essentielle au bon fonctionnement de notre société.\n\n« Vous donnez, mais bien peu quand vous donnez de vos possessions. C'est lorsque vous donnez de vous-même que vous donnez véritablement. »",
+      "attribution": "Khalil Gibran"
+    },
+    {
+      "name": "Raphaëlle Eche",
+      "role": "Trésorière",
+      "quote": "Je souhaitais m'impliquer dans ma communauté, à Verdun, et j'ai eu la chance de pouvoir me présenter sur le CA de Cible Retour à l'emploi. Depuis 2014, je suis fière de faire partie de cette équipe et de collaborer au travail de l'organisme. Cette implication est très formatrice, car en plus de mettre à profit mes connaissances, j'apprends énormément auprès des autres administrateurs et des employés.\n\n« La suprême récompense du travail n'est pas ce qu'il vous permet de gagner, mais ce qu'il vous permet de devenir. »",
+      "attribution": "John Ruskin"
+    },
+    {
+      "name": "Marko Bianchi",
+      "role": "Secrétaire",
+      "quote": "J'ai choisi de faire partie du CA pour faire une différence dans ma communauté, redonner à autrui ce que l'expérience de vie m'a apporté jusqu'à présent.\n\n« Les meilleures choses qui arrivent dans le monde de l'entreprise ne sont pas le résultat du travail d'un seul homme. C'est le travail de toute une équipe. »",
+      "attribution": "Steve Jobs"
+    },
+    { "name": "Éric Ranger", "role": "Vice-Président" },
+    { "name": "Michelle Camara", "role": "Administratrice" }
+  ]
+}

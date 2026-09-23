@@ -1,0 +1,16 @@
+{
+  "title": "Faites carrière chez nous",
+  "body": {
+    "paragraphs": [
+      "Faire carrière chez nous, c'est une façon de travailler pour l'avenir des individus. C'est aussi la chance d'œuvrer auprès d'une clientèle diversifiée, de tous les parcours professionnels et de toutes les cultures.",
+      "Sachez qu'à Cible Retour à l'Emploi, nous conservons une banque de candidatures pour toutes nos classes d'emploi. Alors, n'hésitez pas à nous envoyer votre curriculum vitae ainsi qu'une lettre de présentation par courriel à partir de ce formulaire."
+    ]
+  },
+  "form": {
+    "nameLabel": "Prénom et nom",
+    "emailLabel": "Adresse courriel",
+    "positionLabel": "Titre du poste désiré",
+    "messageLabel": "Message",
+    "submitLabel": "Envoyer"
+  }
+}

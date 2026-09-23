@@ -1,0 +1,25 @@
+{
+  "title": "Board of Directors",
+  "members": [
+    {
+      "name": "Mike Kairouz",
+      "role": "Chair",
+      "quote": "Since joining the board of directors in 2010, I have aspired to attract multidisciplinary talent so that together we can support Cible Retour à l'Emploi in facing the various obstacles it encounters daily. Employment is a noble cause; it is an essential foundation for the proper functioning of our society.\n\n\"You give but little when you give of your possessions. It is when you give of yourself that you truly give.\"",
+      "attribution": "Khalil Gibran"
+    },
+    {
+      "name": "Raphaëlle Eche",
+      "role": "Treasurer",
+      "quote": "I wanted to get involved in my community, in Verdun, and I had the chance to join the board of Cible Retour à l'Emploi. Since 2014, I have been proud to be part of this team and to contribute to the organization's work. This involvement has been very formative, because in addition to putting my knowledge to use, I learn a great deal from the other board members and employees.\n\n\"The highest reward for one's work is not what one gets for it, but what one becomes by it.\"",
+      "attribution": "John Ruskin"
+    },
+    {
+      "name": "Marko Bianchi",
+      "role": "Secretary",
+      "quote": "I chose to join the board to make a difference in my community, giving back what life experience has brought me so far.\n\n\"The best things that come out of the business world are not the result of one man's work. It's the work of an entire team.\"",
+      "attribution": "Steve Jobs"
+    },
+    { "name": "Éric Ranger", "role": "Vice-Chair" },
+    { "name": "Michelle Camara", "role": "Board Member" }
+  ]
+}

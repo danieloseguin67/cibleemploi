@@ -1,0 +1,51 @@
+{
+  "title": "Job Search Assistance",
+  "intro": [
+    "Do you need personalized support for your job search?",
+    "Would you like to optimize your strategies to land your next job?",
+    "If so, the team of counsellors at Cible Retour à l'Emploi is here to help you."
+  ],
+  "serviceDescription": "Here is our FREE support service for people actively looking for work. The service may include:",
+  "serviceItems": [
+    "Assessment of needs and current personal and professional situation",
+    "Personal and professional development",
+    "Use of psychometric assessment tools (if needed)",
+    "Review of transferable skills",
+    "Action plan",
+    "Promotional tools (resume, cover letters…)",
+    "Exploration of the job market",
+    "Cold calls and follow-ups",
+    "Interview preparation and simulation",
+    "Use of social media and help creating online profiles",
+    "Feedback on your electronic portfolio",
+    "Support to help you stay employed"
+  ],
+  "eligibility": "For unemployed people aged 18 and over, with at least a Secondary 3 education, who wish to return to the job market.",
+  "frequency": "1 to 2 meetings per week, depending on needs.",
+  "duration": "Until a job is obtained or up to a maximum of 16 weeks, whichever comes first.",
+  "ctaLabel": "Sign up!",
+  "ctaPath": "contact",
+  "fundedBy": "Service funded by Emploi-Québec",
+  "testimonials": [
+    {
+      "title": "From guilt to confidence",
+      "body": "When I arrived at the Cible Retour à l'Emploi employment counselling centre, my job search was accompanied by sometimes confusing feelings of guilt and shame — guilt for not having done as many steps as I had hoped that day or even that week, shame for being unemployed at my age, given my background. Through her empathetic approach, my counsellor, attentive to my needs and my own pace, first helped me clarify my expectations regarding a future job, then accept the difficulties tied to the search process itself. The weekly meetings not only gave me a framework, but also allowed me to set targeted and realistic goals. With my counsellor's help, I was able to better understand the current job market, and thus better distinguish between what was related to my personal challenges and what was related to obstacles tied to specific market requirements. Over the weeks, I gradually gained confidence and motivation, and the less good weeks, because there were still some, no longer made me feel ashamed. In addition to offering practical, hands-on help — particularly regarding resume building, searching job posting platforms, interview preparation, etc. — Cible Retour à l'Emploi allowed me, through its personalized approach focused on the well-being of its participants, to find a job that met my needs, all while respecting the time I needed to find it.",
+      "attribution": "Francis W."
+    },
+    {
+      "title": "\"Empowerment\" is the word that best describes the services I received",
+      "body": "I met you during one of the most difficult periods of my life, and your welcome and your human expertise did me a lot of good. And I haven't forgotten it! From the front desk to the office, the welcome and support were extraordinary. I was treated with respect, and my counsellor gave me, without complacency, the necessary tools and helped me rediscover my buried strengths. \"Empowerment\" is the word that best describes the services received from the Cible Retour à l'Emploi team. To everyone, thank you!",
+      "attribution": "Alina D."
+    },
+    {
+      "title": "I found a job before the deadline",
+      "body": "At Cible Retour, the people working there have experience with the job market and its ups and downs, given the era we live in, in the 21st century, and they are motivated to share their knowledge. We are guided with sound advice both in preparing a resume and analyzing our job search methods. We receive individual help during meetings with a job search specialist, which is very motivating and more effective than group meetings, because the help provided is specific to us. Confidence grows, we become more efficient, and we learn to better use social media, because everything is always moving, always changing. What worked in past years is different today. I had a three-month goal to find a new job, and I found one before that deadline. Everyone should, as soon as they lose a job, seek out this training at Cible Retour for a successful return to work.",
+      "attribution": "2017 Participant"
+    },
+    {
+      "title": "I hadn't looked for a job in over 10 years",
+      "body": "Cible, through my counsellor, allowed me to reposition myself in a field related to the one I had worked in for many years. Revisiting my resume and understanding the new ways of searching for a job through social media were new to me, since I hadn't looked for a job in more than 10 years. Cible, and my counsellor in particular, gave me the kind of \"psychological\" support that family can't always provide. This outside support is important for someone who, like me, had to wait five months before finding a job that met their expectations. Today I work for a company that is thriving. Cible is the best thing that can happen to an unemployed person who needs to get back on their feet. Thank you.",
+      "attribution": "Michel K."
+    }
+  ]
+}

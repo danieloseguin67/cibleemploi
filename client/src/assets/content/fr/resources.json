@@ -1,0 +1,11 @@
+{
+  "title": "Outils et ressources",
+  "links": [
+    { "label": "Résumé de la séance d'information", "path": "resources/info-session" },
+    { "label": "Sites de recherche d'emploi", "path": "resources/job-sites" },
+    { "label": "Répertoires d'entreprises", "path": "resources/business-directories" },
+    { "label": "Cours d'anglais", "path": "resources/english-courses" },
+    { "label": "Ressources en francisation", "path": "resources/francization" },
+    { "label": "Politique sur le traitement des plaintes", "path": "resources/complaints-policy" }
+  ]
+}

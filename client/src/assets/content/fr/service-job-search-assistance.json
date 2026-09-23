@@ -1,0 +1,51 @@
+{
+  "title": "Aide à la recherche d'emploi",
+  "intro": [
+    "Avez-vous besoin d'accompagnement personnalisé pour la recherche d'emploi?",
+    "Aimeriez-vous optimiser vos stratégies pour décrocher votre prochain emploi?",
+    "Si oui, l'équipe de conseillers de Cible Retour à l'Emploi est là pour vous aider."
+  ],
+  "serviceDescription": "Voici notre service GRATUIT de soutien aux individus actifs en recherche d'emploi. Le service peut inclure :",
+  "serviceItems": [
+    "Évaluation des besoins et de la situation actuelle et professionnelle",
+    "Épanouissement personnel et professionnel",
+    "Utilisation d'outils d'évaluation psychométrique (au besoin)",
+    "Bilan des compétences transférables",
+    "Plan d'action",
+    "Outils promotionnels (CV, lettres…)",
+    "Exploration du marché de l'emploi",
+    "Appels à froid et suivis",
+    "Préparation et simulation d'entrevue",
+    "Utilisation des réseaux sociaux et aide à la création de profils en ligne",
+    "Rétroaction sur le portfolio électronique",
+    "Accompagnement offert pour vous aider à vous maintenir en emploi"
+  ],
+  "eligibility": "Pour les personnes sans emploi âgées de 18 ans et plus, détenant un secondaire 3 et plus qui désirent retourner sur le marché du travail.",
+  "frequency": "1 à 2 rencontres par semaine, selon les besoins.",
+  "duration": "Jusqu'à l'obtention d'un emploi ou jusqu'à un maximum de 16 semaines, selon la première éventualité.",
+  "ctaLabel": "Inscrivez-vous!",
+  "ctaPath": "contact",
+  "fundedBy": "Service financé par Emploi-Québec",
+  "testimonials": [
+    {
+      "title": "De la culpabilité à l'assurance",
+      "body": "À mon arrivée au centre-conseil en emploi Cible Retour à l'Emploi, la recherche d'emploi s'accompagnait, pour moi, de sentiments parfois confus de culpabilité et de honte, culpabilité de ne pas avoir fait autant de démarches que j'aurais espéré ce jour-là ou même cette semaine-ci, honte d'être sans emploi, à l'âge que j'ai, avec le parcours qui est le mien. Par son approche empathique, la conseillère, à l'écoute de mes besoins et de mon rythme personnel, m'a d'abord aidé à clarifier mes attentes par rapport à un futur emploi, puis à accepter les difficultés liées au processus de recherche lui-même. Les rencontres hebdomadaires m'ont non seulement donné un cadre, mais elles m'ont également permis de me donner des objectifs ciblés et réalistes. Avec l'aide de la conseillère, j'ai pu mieux comprendre le marché actuel de l'emploi, et ainsi mieux départager ce qui relevait de mes défis personnels de ce qui relevait des obstacles liés aux exigences particulières du marché. Au cours des semaines, j'ai graduellement gagné en confiance et en motivation, et les moins bonnes semaines, parce qu'il y en avait encore, ne me faisait plus honte. En plus d'offrir un service d'aide pratico-pratique, notamment en ce qui concerne la construction du CV, la recherche sur les plateformes d'offres d'emplois, la préparation à l'entrevue, etc., Cible Retour à l'Emploi m'a permis, grâce à son approche personnalisée, soucieuse du bien-être de ses participant.es, de trouver un emploi qui répondait à mes besoins, et ce, tout en respectant le temps dont j'avais de besoin pour le trouver.",
+      "attribution": "Francis W."
+    },
+    {
+      "title": "« Empowerment » est le mot qui décrit le mieux les services reçus",
+      "body": "Je vous ai rencontré dans une des périodes les plus difficiles de ma vie et votre accueil et votre humaine compétence m'ont fait beaucoup de bien. Et je ne l'oublie pas! Du secrétariat au bureau, l'accueil et le soutien ont été extraordinaires. J'ai été traité avec respect et ma conseillère m'a donné, sans complaisance, les outils nécessaires et m'a aidé à retrouver mes forces enfouies. « Empowerment » est le mot qui décrit le mieux les services reçus par l'équipe de Cible Retour à l'Emploi. À tous, merci!",
+      "attribution": "Alina D."
+    },
+    {
+      "title": "J'ai trouvé avant cette échéance",
+      "body": "Chez Cible Retour travaillent des personnes avec une expérience du marché du travail et ses aléas, du moment que l'on vit, au 21e siècle, et elles sont motivées à partager leur savoir. Nous sommes guidés avec des conseils judicieux tant lors de la préparation d'un CV et de l'analyse de nos façons d'opérer en recherche d'emploi. Nous recevons une aide individuelle lors de rencontres avec un spécialiste en recherche d'emploi, ce qui est très motivant et plus efficace que les rencontres de groupe, car l'aide fournie est spécifique, pour nous. La confiance grandit, nous sommes plus efficaces et nous apprenons à mieux utiliser les réseaux sociaux, car tout bouge, tout change. Ce qui était correct les années passées est aujourd'hui différent. J'avais un objectif de trois mois pour trouver un nouvel emploi et j'ai trouvé avant cette échéance. Chacun devrait, dès qu'il perd un emploi, aller chercher chez Cible Retour cette formation pour un retour à l'emploi réussi.",
+      "attribution": "Participante 2017"
+    },
+    {
+      "title": "Moi qui n'avais pas cherché d'emploi depuis plus de 10 ans",
+      "body": "Cible, par le biais de ma conseillère, m'a permis de me repositionner dans un secteur connexe à celui que j'occupais depuis plusieurs années. Revoir son CV, comprendre les nouvelles façons de rechercher un emploi via les réseaux sociaux étaient nouveau pour moi qui n'avais pas cherché d'emploi depuis plus de 10 ans. Cible, et tout particulièrement ma conseillère, m'ont apporté ce support « psychologique » que la famille ne peut pas toujours vous apporter. Ce support extérieur est important pour quelqu'un qui, comme moi, a dû attendre cinq mois avant de retrouver un emploi à la hauteur de ses attentes. Aujourd'hui je travaille pour une entreprise qui est en plein essor. Cible est la meilleure chose qui peut arriver à un chômeur qui a besoin d'être remis sur pieds. Merci.",
+      "attribution": "Michel K."
+    }
+  ]
+}

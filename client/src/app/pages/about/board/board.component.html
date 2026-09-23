@@ -1,0 +1,11 @@
+<ng-container *ngIf="content() as page">
+  <h1>{{ page.title }}</h1>
+  <div class="team-grid">
+    <article class="member-card" *ngFor="let member of page.members">
+      <h2>{{ member.name }}</h2>
+      <p class="role">{{ member.role }}</p>
+      <p class="quote" *ngFor="let line of (member.quote ?? '').split('\n\n')" [hidden]="!member.quote">{{ line }}</p>
+      <p class="attribution" *ngIf="member.attribution">— {{ member.attribution }}</p>
+    </article>
+  </div>
+</ng-container>

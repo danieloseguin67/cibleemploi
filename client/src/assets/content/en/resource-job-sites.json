@@ -1,0 +1,27 @@
+{
+  "title": "Job Search Sites",
+  "intro": ["Here is a non-exhaustive list of the main job search sites for Montreal and the surrounding area"],
+  "groups": [
+    {
+      "items": [
+        { "label": "Artère", "url": "https://www.artere.qc.ca/", "description": "For Montreal's emerging artists. A site where you can find job postings in the cultural sector: circus arts, media arts, visual art, film and video, dance, literature and storytelling, crafts, music, and theatre." },
+        { "label": "Arrondissement.com", "url": "https://www.arrondissement.com/", "description": "A site that lists available jobs, mainly in community settings. You can search by city or borough." },
+        { "label": "Espresso-jobs.com", "url": "https://www.espresso-jobs.com/", "description": "IT job site for Quebec (communications and marketing, web, IT, video games, VFX animation)." },
+        { "label": "Grenier aux emplois", "url": "https://www.grenier.qc.ca/emplois", "description": "A site to browse job postings in communications, marketing, design, multimedia, sales…" },
+        { "label": "Indeed", "url": "https://emplois.ca.indeed.com/", "description": "A job search meta-engine that indexes postings published on thousands of websites." },
+        { "label": "InfopresseJobs", "url": "https://www.infopressejobs.com/", "description": "The job site for the communications, marketing, digital, design, and web industry in Quebec." },
+        { "label": "Isarta", "url": "https://isarta.com/", "description": "Jobs in communications, marketing, and sales for Quebec." },
+        { "label": "Jobboom", "url": "https://www.jobboom.com/fr", "description": "A pan-Canadian job posting site with a \"Tips Section\" on job searching, job loss, resumes, interviews, work life, health, and safety." },
+        { "label": "Jobillico", "url": "https://www.jobillico.com/fr", "description": "Thousands of companies recruit on the Jobillico Network. Search by city, occupation, or industry." },
+        { "label": "JobsMedia", "url": "https://jobsmedia.ca/fr/", "description": "Automatic distribution of job postings by email, Facebook, LinkedIn, Twitter, Google+, Indeed, and Neuvoo." },
+        { "label": "Monster", "url": "https://www.monster.ca/fr/", "description": "A site to find job postings across Canada in all sectors of activity." },
+        { "label": "Neuvoo", "url": "https://neuvoo.ca/fr", "description": "For job searching across Quebec, with a net salary and tax calculator." },
+        { "label": "Québec emploi", "url": "https://www.quebec.ca/emploi/offres-d-emploi/offres-d-emploi-disponibles/quebec-emploi-service-offres-emploi-en-ligne", "description": "Quebec government website with job postings from all fields." },
+        { "label": "Santé Montréal", "url": "https://www.emplois.santemontreal.qc.ca/", "description": "Montreal Health and Social Services Agency. Jobs in the health and social services sector." },
+        { "label": "Société des musées du Québec", "url": "https://www.musees.qc.ca/fr/professionnel/carrieres/offres/", "description": "Job postings for working in museums." },
+        { "label": "Jooble", "url": "https://ca.jooble.org/", "description": "A job posting aggregator site covering all of Canada." },
+        { "label": "Jack Staff", "url": "https://jackstaff.ca/fr", "description": "Jobs in construction: industrial, institutional and commercial, civil engineering and roadwork, residential." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "À propos",
+  "intro": {
+    "paragraphs": [
+      "L'équipe de Cible Retour à l'Emploi est fière d'aider les chercheurs d'emploi à mieux comprendre le marché du travail, de les accompagner dans leur démarche et de contribuer à l'atteinte de leurs objectifs.",
+      "Nous accompagnons depuis plus de 20 ans les Montréalais de tous les niveaux d'études, de toutes les origines et de tous les domaines d'activité. Par le biais de nos services, nous avons contribué à l'amélioration du sort de milliers de familles et d'individus.",
+      "Pour nous connaitre davantage, visitez les sections suivantes : l'organisme, l'équipe et le conseil d'administration."
+    ]
+  },
+  "links": [
+    { "label": "L'organisme", "path": "about/organization" },
+    { "label": "L'équipe", "path": "about/team" },
+    { "label": "Le conseil d'administration", "path": "about/board" },
+    { "label": "Faites carrière chez nous", "path": "about/career" }
+  ]
+}

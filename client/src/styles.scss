@@ -1,0 +1,68 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #253238;
+  background: #ffffff;
+}
+
+h1 {
+  color: #0f5c8c;
+}
+
+a {
+  color: inherit;
+}
+
+form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+form input,
+form textarea {
+  font: inherit;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #cbd5db;
+  border-radius: 6px;
+}
+
+form .error {
+  color: #c0392b;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+form button[type='submit'] {
+  background: #0f5c8c;
+  color: #fff;
+  border: none;
+  padding: 0.7rem 1.75rem;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+form button[type='submit']:hover {
+  background: #0a4468;
+}
+
+.success-banner {
+  background: #e4f6e9;
+  color: #1e7a3a;
+  border: 1px solid #b6e3c3;
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  font-weight: 600;
+}
+

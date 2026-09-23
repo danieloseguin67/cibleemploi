@@ -1,0 +1,26 @@
+<footer class="site-footer" *ngIf="ui() as strings">
+  <div class="footer-grid">
+    <div class="footer-col">
+      <h3>{{ strings.footer.orgTitle }}</h3>
+      <p *ngFor="let line of strings.footer.addressLines">{{ line }}</p>
+    </div>
+    <div class="footer-col">
+      <h3>{{ strings.footer.hoursTitle }}</h3>
+      <p *ngFor="let line of strings.footer.hoursLines">{{ line }}</p>
+    </div>
+    <div class="footer-col">
+      <h3>{{ strings.footer.contactTitle }}</h3>
+      <p>{{ strings.footer.phoneLabel }}</p>
+      <p>{{ strings.footer.emailLabel }}</p>
+    </div>
+    <div class="footer-col">
+      <h3>{{ strings.footer.socialTitle }}</h3>
+      <ul class="social-list">
+        <li *ngFor="let social of socialLinks">
+          <a [href]="social.url" target="_blank" rel="noopener noreferrer">{{ social.label }}</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <p class="copyright">{{ strings.footer.copyright }} {{ year }}</p>
+</footer>

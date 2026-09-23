@@ -1,0 +1,16 @@
+{
+  "title": "Careers with Us",
+  "body": {
+    "paragraphs": [
+      "Building a career with us is a way to work for people's futures. It also gives you the chance to work with a diverse clientele, from all professional backgrounds and cultures.",
+      "Please note that at Cible Retour à l'Emploi, we keep a pool of applications for all our job categories. So don't hesitate to send us your resume along with a cover letter by email using this form."
+    ]
+  },
+  "form": {
+    "nameLabel": "First and last name",
+    "emailLabel": "Email address",
+    "positionLabel": "Desired position title",
+    "messageLabel": "Message",
+    "submitLabel": "Send"
+  }
+}

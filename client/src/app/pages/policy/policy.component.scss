@@ -1,0 +1,39 @@
+.adopted-note {
+  font-style: italic;
+  color: #5a6b75;
+}
+
+.chapter {
+  margin-bottom: 2rem;
+
+  h2 {
+    color: #0f5c8c;
+    border-bottom: 2px solid #eef5fa;
+    padding-bottom: 0.5rem;
+  }
+}
+
+.article {
+  margin-bottom: 1.25rem;
+
+  h3 {
+    margin-bottom: 0.4rem;
+  }
+
+  p {
+    margin: 0.4rem 0;
+  }
+}
+
+.download-link {
+  display: inline-block;
+  margin: 1rem 0 2rem;
+  color: #0f5c8c;
+  font-weight: 700;
+}
+
+.contact-note {
+  background: #f7fafc;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+}

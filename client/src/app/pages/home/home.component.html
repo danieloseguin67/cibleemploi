@@ -1,0 +1,25 @@
+<ng-container *ngIf="content() as home">
+  <section class="hero">
+    <img [src]="home.heroImage" [alt]="home.heroTitle" class="hero-image" />
+    <h1>{{ home.heroTitle }}</h1>
+    <p class="tagline">{{ home.heroTagline }}</p>
+  </section>
+
+  <section class="about-teaser">
+    <h2 *ngIf="home.aboutTeaser.heading">{{ home.aboutTeaser.heading }}</h2>
+    <p *ngFor="let paragraph of home.aboutTeaser.paragraphs">{{ paragraph }}</p>
+    <ul class="teaser-links">
+      <li *ngFor="let link of home.aboutLinks">
+        <a [routerLink]="link.path | localePath">{{ link.label }}</a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="hours-notice">
+    <p class="notice">{{ home.hoursNotice }}</p>
+    <h3>{{ home.hoursTitle }}</h3>
+    <ul>
+      <li *ngFor="let entry of home.hours"><strong>{{ entry.day }}</strong> : {{ entry.time }}</li>
+    </ul>
+  </section>
+</ng-container>

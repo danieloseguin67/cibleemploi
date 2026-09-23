@@ -1,0 +1,53 @@
+:host {
+  display: block;
+  background: #0a2b3c;
+  color: #d7e6ee;
+  margin-top: 3rem;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 1.5rem;
+}
+
+.footer-col {
+  h3 {
+    color: #fff;
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    margin: 0 0 0.4rem;
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+}
+
+.social-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  a {
+    color: #d7e6ee;
+    text-decoration: none;
+    font-size: 0.85rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.copyright {
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 1rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 0;
+}

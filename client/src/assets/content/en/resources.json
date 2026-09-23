@@ -1,0 +1,11 @@
+{
+  "title": "Tools and Resources",
+  "links": [
+    { "label": "Summary of the Information Session", "path": "resources/info-session" },
+    { "label": "Job Search Sites", "path": "resources/job-sites" },
+    { "label": "Business Directories", "path": "resources/business-directories" },
+    { "label": "English Courses", "path": "resources/english-courses" },
+    { "label": "Francization Resources", "path": "resources/francization" },
+    { "label": "Policy on the Handling of Complaints", "path": "resources/complaints-policy" }
+  ]
+}

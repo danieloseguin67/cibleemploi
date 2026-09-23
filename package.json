@@ -1,0 +1,14 @@
+{
+  "name": "ciblemploi",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "client"
+  ],
+  "scripts": {
+    "dev:client": "npm run start --workspace client",
+    "build:client": "npm run build --workspace client",
+    "build": "npm run build:client",
+    "start": "npm run start --workspace client"
+  }
+}

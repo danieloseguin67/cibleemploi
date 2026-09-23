@@ -1,0 +1,16 @@
+{
+  "title": "About Us",
+  "intro": {
+    "paragraphs": [
+      "The Cible Retour à l'Emploi team is proud to help job seekers better understand the labour market, support them throughout their process, and contribute to achieving their goals.",
+      "For more than 20 years, we have supported Montrealers of all education levels, backgrounds, and fields of activity. Through our services, we have helped improve the circumstances of thousands of families and individuals.",
+      "To learn more about us, visit the following sections: the Organization, the Team, and the Board of Directors."
+    ]
+  },
+  "links": [
+    { "label": "The Organization", "path": "about/organization" },
+    { "label": "The Team", "path": "about/team" },
+    { "label": "Board of Directors", "path": "about/board" },
+    { "label": "Careers with Us", "path": "about/career" }
+  ]
+}

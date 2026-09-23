@@ -1,0 +1,89 @@
+{
+  "tagline": "Centre-conseil en emploi, membre d'AXTRA",
+  "nav": [
+    { "label": "Accueil", "path": "" },
+    {
+      "label": "À propos",
+      "path": "about",
+      "children": [
+        { "label": "L'organisme", "path": "about/organization" },
+        { "label": "L'équipe", "path": "about/team" },
+        { "label": "Le conseil d'administration", "path": "about/board" },
+        { "label": "Faites carrière chez nous", "path": "about/career" }
+      ]
+    },
+    {
+      "label": "Nos services",
+      "path": "services",
+      "children": [
+        { "label": "Aide à la recherche d'emploi", "path": "services/job-search-assistance" },
+        { "label": "Méthode de recherche d'emploi", "path": "services/job-search-method" }
+      ]
+    },
+    { "label": "Trouve Ton X", "path": "", "externalUrl": "https://www.trouvetonx.ca/" },
+    {
+      "label": "Notre blogue",
+      "path": "blog",
+      "children": [
+        { "label": "Comment faire évoluer votre carrière grâce au soutien d'un.e conseiller/conseillère en emploi?", "path": "blog/comment-faire-evoluer-votre-carriere" },
+        { "label": "Douter lors du dépôt de sa candidature, comment s'y repérer?", "path": "blog/douter-lors-du-depot-de-sa-candidature" },
+        { "label": "L'apport de l'employabilité à la société québécoise", "path": "blog/apport-employabilite-societe-quebecoise" },
+        { "label": "Santé mentale et bien-être au travail", "path": "blog/sante-mentale-et-bien-etre-au-travail" },
+        { "label": "Le harcèlement psychologique au travail : mieux vaut prévenir que guérir", "path": "blog/harcelement-psychologique-au-travail" },
+        { "label": "Qui fait quoi dans le système?", "path": "blog/qui-fait-quoi-dans-le-systeme" },
+        { "label": "Inclusion", "path": "blog/inclusion" },
+        { "label": "Prêt à décoller", "path": "blog/pret-a-decoller" },
+        { "label": "Google moteur de votre recherche d'emploi? Pourquoi pas!", "path": "blog/google-moteur-de-votre-recherche-demploi" },
+        { "label": "Télétravailler de la bonne façon", "path": "blog/teletravailler-de-la-bonne-facon" },
+        { "label": "Je me souviens", "path": "blog/je-me-souviens" },
+        { "label": "2020 a tout changé. Et alors?", "path": "blog/2020-a-tout-change-et-alors" },
+        { "label": "Trouver son équilibre mental", "path": "blog/trouver-son-equilibre-mental" }
+      ]
+    },
+    {
+      "label": "Outils et ressources",
+      "path": "resources",
+      "children": [
+        { "label": "Résumé de la séance d'information", "path": "resources/info-session" },
+        { "label": "Sites de recherche d'emploi", "path": "resources/job-sites" },
+        { "label": "Répertoires d'entreprises", "path": "resources/business-directories" },
+        { "label": "Cours d'anglais", "path": "resources/english-courses" },
+        { "label": "Ressources en francisation", "path": "resources/francization" },
+        { "label": "Politique sur le traitement des plaintes", "path": "resources/complaints-policy" },
+        { "label": "Politique de prévention du harcèlement", "path": "harassment-policy" }
+      ]
+    },
+    { "label": "Contactez-nous", "path": "contact" }
+  ],
+  "languageSwitchLabel": "English",
+  "footer": {
+    "orgTitle": "Cible Retour à l'Emploi",
+    "addressLines": ["4740, rue Wellington", "3e étage, bureau 302", "Verdun (Québec) H4G 1X3", "(Métro De L'Église)"],
+    "hoursTitle": "Nos bureaux sont ouverts",
+    "hoursLines": [
+      "Lundi de 10 h à midi, puis de 13 h à 16 h 30",
+      "Mardi de 8 h 30 à midi, puis de 13 h à 16 h 30",
+      "Mercredi de 8 h 30 à midi, puis de 13 h à 16 h 30",
+      "Jeudi de 8 h 30 à midi, puis de 13 h à 16 h 30",
+      "Vendredi de 8 h 30 à midi, puis de 13 h à 16 h 30"
+    ],
+    "contactTitle": "Pour nous rejoindre",
+    "phoneLabel": "Téléphone : 514 362-7340, poste 221",
+    "emailLabel": "Courriel : info@cibleretour.com",
+    "socialTitle": "Médias sociaux",
+    "copyright": "Copyright © 2026 Cible Retour à l'Emploi, Developpé par Daniel Seguin"
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "submit": "Envoyer",
+    "submitSuccess": "Merci, votre message a été envoyé.",
+    "requiredField": "Ce champ est requis.",
+    "invalidEmail": "Veuillez entrer une adresse courriel valide.",
+    "backToList": "Retour à la liste"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "message": "Désolé, la page que vous cherchez n'existe pas ou plus.",
+    "homeLink": "Retour à l'accueil"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Résumé de la séance d'information",
+  "groups": [
+    {
+      "heading": "Renseignements et services en ligne d'Emploi-Québec",
+      "items": [
+        { "label": "Site d'Emploi-Québec", "url": "https://www.emploiquebec.gouv.qc.ca/" },
+        { "label": "S'informer sur le marché du travail", "url": "https://imt.emploiquebec.gouv.qc.ca/mtg/inter/noncache/contenu/asp/mtg941_accueil_fran_01.asp" },
+        { "label": "Placement en ligne (PEL)", "url": "https://placement.emploiquebec.gouv.qc.ca/mbe/login/portail/portcherc.asp", "description": "Le site de Placement en ligne (PEL) permet de consulter des offres d'emploi, présenter votre candidature et créer des alertes-emploi pour recevoir des offres." }
+      ]
+    },
+    {
+      "heading": "Lieux en libre-service",
+      "items": [
+        { "label": "Salle multiservice du Centre Local d'Emploi de Verdun", "url": "https://www.emploiquebec.gouv.qc.ca/", "address": "1055, rue Galt, Verdun — Téléphone : 514 864-6646", "description": "Lieu où vous pouvez faire vous-même vos démarches de recherche d'emploi. À votre disposition : ordinateur, photocopieur, télécopieur, téléphone et documentation. Lundi, mardi, jeudi et vendredi : 8 h 30 à 12 h et 13 h à 16 h 30. Mercredi : 10 h à 12 h et 13 h à 16 h 30." },
+        { "label": "Grande Bibliothèque", "url": "https://www.banq.qc.ca/services/services_specialises/services_quebec/", "address": "475, boulevard De Maisonneuve Est", "description": "Au 2e étage, vous pouvez obtenir des renseignements sur les programmes et services du gouvernement du Québec, un accompagnement à l'emploi et assister à des ateliers de recherche d'emploi." }
+      ]
+    },
+    {
+      "heading": "Services spécialisés offerts par Emploi-Québec",
+      "items": [
+        { "label": "Services d'aide à l'emploi", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/trouver-un-emploi/repertoire-des-organismes-specialises-en-employabilite/", "description": "Activités offertes afin de vous outiller pour les techniques de recherche d'emploi ou pour préciser votre objectif d'emploi." },
+        { "label": "Mesure de formation de la main-d'œuvre", "url": "https://www.emploiquebec.gouv.qc.ca/regions/montreal/offre-de-formation/", "description": "Pour faire une formation générale, professionnelle ou technique." },
+        { "label": "Projet de préparation à l'emploi", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/developper-et-faire-reconnaitre-vos-competences/preparation-a-lemploi/projet-de-preparation-a-lemploi/", "description": "Pour acquérir des compétences afin d'occuper un emploi de manière durable." },
+        { "label": "Subvention salariale", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/integrer-un-emploi/programmes-dintegration-a-lemploi/subvention-salariale/", "description": "Pour obtenir une aide financière et inciter un employeur à vous offrir un emploi." },
+        { "label": "Programme d'aide à l'intégration des immigrants et des minorités visibles en emploi (PRIIME)", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/integrer-un-emploi/programmes-dintegration-a-lemploi/programme-daide-a-lintegration-des-immigrants-et-des-minorites-visibles-en-emploi-priime/", "description": "Pour avoir une première expérience de travail au Québec dans votre domaine." },
+        { "label": "Soutien au travail autonome", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/demarrer-son-entreprise/soutien-au-travail-autonome/", "description": "Pour les personnes qui désirent créer leur propre entreprise ou devenir travailleurs autonomes." },
+        { "label": "Reconnaissance des acquis et compétences (RAC)", "url": "https://www.qualificationmontreal.com/", "description": "Pour faire reconnaître ses acquis de manière officielle afin d'obtenir un diplôme ou une attestation." }
+      ]
+    },
+    {
+      "heading": "Stratégies de recherche d'emploi",
+      "items": [
+        { "label": "Guide pratique de la recherche d'emploi", "url": "https://www.emploiquebec.gouv.qc.ca/publications/pdf/00_emp_guiderecherche-emploi.pdf" },
+        { "label": "Répertoire des sites Internet utiles pour la recherche d'emploi", "url": "https://www.emploiquebec.gouv.qc.ca/fileadmin/fichiers/pdf/Regions/Montreal/06_admin_sites-internet-emploi.pdf" }
+      ]
+    },
+    {
+      "heading": "Services de Cible Retour à l'Emploi",
+      "items": [
+        { "label": "Aide à la recherche d'emploi", "url": "/fr/services/job-search-assistance" }
+      ]
+    }
+  ]
+}

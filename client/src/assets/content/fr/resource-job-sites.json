@@ -1,0 +1,27 @@
+{
+  "title": "Sites de recherche d'emploi",
+  "intro": ["Voici une liste non exhaustive des principaux sites de recherche d'emploi pour Montréal et ses environs"],
+  "groups": [
+    {
+      "items": [
+        { "label": "Artère", "url": "https://www.artere.qc.ca/", "description": "Pour la relève artistique montréalaise. Site où vous trouvez des offres d'emploi du milieu de la culture : art du cirque, art médiatique, art visuel, cinéma et vidéo, danse, littérature et conte, métiers d'arts, musique et théâtre." },
+        { "label": "Arrondissement.com", "url": "https://www.arrondissement.com/", "description": "Site qui permet de voir les emplois disponibles principalement dans les milieux communautaires. Vous pouvez faire la recherche par ville ou arrondissement." },
+        { "label": "Espresso-jobs.com", "url": "https://www.espresso-jobs.com/", "description": "Site d'emploi en TI pour le Québec (communication et marketing, Web, TI, jeux vidéo, VFX Animation)." },
+        { "label": "Grenier aux emplois", "url": "https://www.grenier.qc.ca/emplois", "description": "Site pour consulter des offres d'emploi en communication, marketing, design, multimédia, ventes…" },
+        { "label": "Indeed", "url": "https://emplois.ca.indeed.com/", "description": "Métamoteur de recherche d'emploi qui indexe les offres publiées sur des milliers de sites Web." },
+        { "label": "InfopresseJobs", "url": "https://www.infopressejobs.com/", "description": "Le site d'emplois de l'industrie des communications, du marketing, de l'interactif, du design et du Web au Québec." },
+        { "label": "Isarta", "url": "https://isarta.com/", "description": "Emplois en communication, marketing et vente pour le Québec." },
+        { "label": "Jobboom", "url": "https://www.jobboom.com/fr", "description": "Site d'offres d'emplois pancanadien avec une « Section Conseils » sur la recherche d'emploi, la perte d'emploi, le CV, l'entrevue, la vie au travail, la santé et la sécurité." },
+        { "label": "Jobillico", "url": "https://www.jobillico.com/fr", "description": "Des milliers d'entreprises recrutent sur le Réseau Jobillico. Recherche par ville, profession ou industrie." },
+        { "label": "JobsMedia", "url": "https://jobsmedia.ca/fr/", "description": "Diffusion des offres d'emploi automatiquement par courriel, Facebook, LinkedIn, Twitter, Google+, Indeed et Neuvoo." },
+        { "label": "Monster", "url": "https://www.monster.ca/fr/", "description": "Site qui permet de trouver des offres d'emplois partout au Canada dans tous les secteurs d'activités." },
+        { "label": "Neuvoo", "url": "https://neuvoo.ca/fr", "description": "Pour faire de la recherche d'emploi partout au Québec, avec calculatrice de salaire net et impôt." },
+        { "label": "Québec emploi", "url": "https://www.quebec.ca/emploi/offres-d-emploi/offres-d-emploi-disponibles/quebec-emploi-service-offres-emploi-en-ligne", "description": "Site du gouvernement québécois qui permet de consulter des offres d'emploi de tous les domaines." },
+        { "label": "Santé Montréal", "url": "https://www.emplois.santemontreal.qc.ca/", "description": "Agence de la santé et des services sociaux de Montréal. Emplois dans le secteur de la santé et des services sociaux." },
+        { "label": "Société des musées du Québec", "url": "https://www.musees.qc.ca/fr/professionnel/carrieres/offres/", "description": "Offres d'emploi pour travailler dans les musées." },
+        { "label": "Jooble", "url": "https://ca.jooble.org/", "description": "Site agrégateur d'offres d'emplois partout au Canada." },
+        { "label": "Jack Staff", "url": "https://jackstaff.ca/fr", "description": "Emplois en construction : industriel, institutionnel et commercial, génie civil et voirie, résidentiel." }
+      ]
+    }
+  ]
+}

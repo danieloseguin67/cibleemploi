@@ -1,0 +1,45 @@
+{
+  "title": "Summary of the Information Session",
+  "groups": [
+    {
+      "heading": "Emploi-Québec Information and Online Services",
+      "items": [
+        { "label": "Emploi-Québec website", "url": "https://www.emploiquebec.gouv.qc.ca/" },
+        { "label": "Learn about the job market", "url": "https://imt.emploiquebec.gouv.qc.ca/mtg/inter/noncache/contenu/asp/mtg941_accueil_fran_01.asp" },
+        { "label": "Online Job Placement (PEL)", "url": "https://placement.emploiquebec.gouv.qc.ca/mbe/login/portail/portcherc.asp", "description": "The Online Job Placement (PEL) website lets you browse job postings, apply for jobs, and create job alerts to receive offers." }
+      ]
+    },
+    {
+      "heading": "Self-Service Locations",
+      "items": [
+        { "label": "Multi-service room at the Verdun Local Employment Centre", "url": "https://www.emploiquebec.gouv.qc.ca/", "address": "1055 Galt Street, Verdun — Phone: 514 864-6646", "description": "A place where you can carry out your own job search steps. Available to you: computer, photocopier, fax machine, phone, and documentation. Monday, Tuesday, Thursday, and Friday: 8:30 a.m. to noon and 1 p.m. to 4:30 p.m. Wednesday: 10 a.m. to noon and 1 p.m. to 4:30 p.m." },
+        { "label": "Grande Bibliothèque", "url": "https://www.banq.qc.ca/services/services_specialises/services_quebec/", "address": "475 De Maisonneuve Boulevard East", "description": "On the 2nd floor, you can get information on Quebec government programs and services, employment support, and attend job search workshops." }
+      ]
+    },
+    {
+      "heading": "Specialized Services Offered by Emploi-Québec",
+      "items": [
+        { "label": "Employment assistance services", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/trouver-un-emploi/repertoire-des-organismes-specialises-en-employabilite/", "description": "Activities offered to equip you with job search techniques or to clarify your employment goal." },
+        { "label": "Workforce training measure", "url": "https://www.emploiquebec.gouv.qc.ca/regions/montreal/offre-de-formation/", "description": "To take general, vocational, or technical training." },
+        { "label": "Job readiness project", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/developper-et-faire-reconnaitre-vos-competences/preparation-a-lemploi/projet-de-preparation-a-lemploi/", "description": "To acquire skills in order to hold a job in a sustainable way." },
+        { "label": "Wage subsidy", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/integrer-un-emploi/programmes-dintegration-a-lemploi/subvention-salariale/", "description": "To obtain financial assistance and encourage an employer to offer you a job." },
+        { "label": "Program to Support the Integration of Immigrants and Visible Minorities into Employment (PRIIME)", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/integrer-un-emploi/programmes-dintegration-a-lemploi/programme-daide-a-lintegration-des-immigrants-et-des-minorites-visibles-en-emploi-priime/", "description": "To gain a first work experience in Quebec in your field." },
+        { "label": "Support for Self-Employment", "url": "https://www.emploiquebec.gouv.qc.ca/citoyens/demarrer-son-entreprise/soutien-au-travail-autonome/", "description": "For people who want to start their own business or become self-employed." },
+        { "label": "Recognition of Prior Learning and Skills (RAC)", "url": "https://www.qualificationmontreal.com/", "description": "To have your prior learning officially recognized in order to obtain a diploma or certificate." }
+      ]
+    },
+    {
+      "heading": "Job Search Strategies",
+      "items": [
+        { "label": "Practical guide to job searching", "url": "https://www.emploiquebec.gouv.qc.ca/publications/pdf/00_emp_guiderecherche-emploi.pdf" },
+        { "label": "Directory of useful websites for job searching", "url": "https://www.emploiquebec.gouv.qc.ca/fileadmin/fichiers/pdf/Regions/Montreal/06_admin_sites-internet-emploi.pdf" }
+      ]
+    },
+    {
+      "heading": "Cible Retour à l'Emploi Services",
+      "items": [
+        { "label": "Job Search Assistance", "url": "/en/services/job-search-assistance" }
+      ]
+    }
+  ]
+}
