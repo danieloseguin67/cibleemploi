@@ -44,7 +44,18 @@ Build the static Angular application:
 npm run build
 ```
 
-Build output is written to `client/dist/client/`. Deploy that directory to a static web host configured with an SPA fallback to `index.html`.
+Build output is written to `client/dist/client/browser/`. Deploy that directory to a static web host configured with an SPA fallback to `index.html`.
+
+## GitHub Pages
+
+The root `.github/workflows/deploy.yml` workflow builds and deploys `main` to
+https://danieloseguin67.github.io/cibleemploi/ on each push, or manually from GitHub Actions.
+In the repository's Settings > Pages, select **GitHub Actions** as the source.
+
+Run `npm run build:prod` locally to verify the build with the `/cibleemploi/` base path.
+After pushing changes, `npm run deploy` can trigger the workflow using an authenticated GitHub CLI.
+The workflow publishes `index.html` as `404.html` so direct Angular route links load the app;
+GitHub Pages still returns HTTP 404 for those direct links.
 
 ## Tests
 

@@ -1,17 +1,23 @@
 {
   "name": "ciblemploi",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "workspaces": [
     "client"
   ],
   "scripts": {
-    "dev:client": "npm run start --workspace client",
-    "build:client": "npm run build --workspace client",
-    "build": "npm run build:client",
-    "start": "npm run start --workspace client"
+    "ng": "npm run ng --workspace client --",
+    "start": "npm run start --workspace client",
+    "server": "node save-server.js",
+    "dev": "concurrently \"npm run server\" \"npm start\"",
+    "build": "npm run build --workspace client",
+    "build:prod": "npm run build --workspace client -- --configuration production --base-href /cibleemploi/",
+    "deploy": "gh workflow run deploy.yml --ref main",
+    "watch": "npm run watch --workspace client",
+    "test": "npm run test --workspace client"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0"
-  }
+  },
+  "allowScripts": {}
 }
