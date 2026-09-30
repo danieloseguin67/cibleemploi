@@ -1,5 +1,7 @@
 import { Component, inject, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { Router } from '@angular/router';
+import { LocaleService } from '../../core/locale.service';
 import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { ContentService } from '../../core/content.service';
@@ -16,6 +18,8 @@ import type { ContactContent } from '../../core/models/content.models';
 export class ContactComponent {
   private readonly contentService = inject(ContentService);
   private readonly fb = inject(FormBuilder);
+  private readonly router = inject(Router);
+  private readonly localeService = inject(LocaleService);
   readonly ui = inject(UiService).ui;
 
   readonly content = toSignal(this.contentService.watch<ContactContent>('contact'), { initialValue: null });
@@ -27,6 +31,13 @@ export class ContactComponent {
     subject: ['', Validators.required],
     message: ['', Validators.required]
   });
+
+  confirmEmailSent(): void {
+    if (!this.mailRequested()) return;
+    void this.router.navigate(['/', this.localeService.locale()], {
+      state: { contactEmailConfirmed: true }
+    });
+  }
 
   onSubmit(): void {
     if (this.form.invalid) {

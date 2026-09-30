@@ -18,6 +18,7 @@
     "subjectLabel": "Sujet",
     "messageLabel": "Votre message",
     "submitLabel": "Ouvrir mon logiciel de courriel",
+    "confirmSentLabel": "J'ai envoyé mon courriel — retourner à l'accueil",
     "mailInstructions": "Ce formulaire prépare un courriel à info@cibleretour.com dans votre logiciel de courriel. Vous devrez ensuite l'envoyer vous-même.",
     "mailNotice": "Si votre logiciel de courriel s'est ouvert, vérifiez le message puis cliquez sur Envoyer. Sinon, ouvrez votre messagerie et copiez les informations ci-dessous dans un courriel à info@cibleretour.com. Vos informations restent disponibles dans le formulaire."
   }

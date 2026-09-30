@@ -1,4 +1,5 @@
 <ng-container *ngIf="content() as home">
+  <p class="success-banner" role="status" *ngIf="contactEmailConfirmed">{{ home.contactThankYou }}</p>
   <section class="hero">
     <img [src]="home.heroImage" [alt]="home.heroTitle" class="hero-image" />
     <h1>{{ home.heroTitle }}</h1>

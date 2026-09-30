@@ -43,6 +43,7 @@ export interface RichSection {
 }
 
 export interface HomeContent {
+  contactThankYou: string;
   heroTitle: string;
   heroImage: string;
   heroTagline: string;
@@ -180,6 +181,7 @@ export interface ContactContent {
     messageLabel: string;
     submitLabel: string;
     mailInstructions: string;
+    confirmSentLabel: string;
     mailNotice: string;
   };
 }

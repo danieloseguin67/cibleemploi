@@ -17,6 +17,9 @@
     <div class="contact-form-wrapper">
       <p>{{ page.form.mailInstructions }}</p>
       <div class="success-banner" role="status" *ngIf="mailRequested()">{{ page.form.mailNotice }}</div>
+      <button class="confirm-email" type="button" *ngIf="mailRequested()" (click)="confirmEmailSent()">
+        {{ page.form.confirmSentLabel }}
+      </button>
 
       <form [formGroup]="form" (ngSubmit)="onSubmit()" class="contact-form">
         <label>

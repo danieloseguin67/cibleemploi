@@ -18,6 +18,7 @@
     "subjectLabel": "Subject",
     "messageLabel": "Your message",
     "submitLabel": "Open my email app",
+    "confirmSentLabel": "I've sent my email — return home",
     "mailInstructions": "This form prepares an email to info@cibleretour.com in your email app. You will need to send it yourself.",
     "mailNotice": "If your email app opened, review the message and click Send. Otherwise, open your email app and copy the information below into an email to info@cibleretour.com. Your information remains available in the form."
   }
