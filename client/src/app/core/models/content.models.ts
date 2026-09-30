@@ -179,6 +179,8 @@ export interface ContactContent {
     subjectLabel: string;
     messageLabel: string;
     submitLabel: string;
+    mailInstructions: string;
+    mailNotice: string;
   };
 }
 

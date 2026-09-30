@@ -6,7 +6,7 @@
       <h2>{{ page.orgName }}</h2>
       <p *ngFor="let line of page.addressLines">{{ line }}</p>
       <p>{{ page.phoneLabel }}</p>
-      <p>{{ page.emailLabel }}</p>
+      <p><a href="mailto:info@cibleretour.com">{{ page.emailLabel }}</a></p>
 
       <h3>{{ page.hoursTitle }}</h3>
       <ul>
@@ -15,9 +15,10 @@
     </div>
 
     <div class="contact-form-wrapper">
-      <div class="success-banner" *ngIf="submitted()">{{ ui()?.common?.submitSuccess }}</div>
+      <p>{{ page.form.mailInstructions }}</p>
+      <div class="success-banner" role="status" *ngIf="mailRequested()">{{ page.form.mailNotice }}</div>
 
-      <form [formGroup]="form" (ngSubmit)="onSubmit()" class="contact-form" *ngIf="!submitted()">
+      <form [formGroup]="form" (ngSubmit)="onSubmit()" class="contact-form">
         <label>
           {{ page.form.nameLabel }}
           <input type="text" formControlName="name" />

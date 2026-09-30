@@ -81,7 +81,15 @@ The language switcher preserves the current page path when changing languages.
 
 ## Forms
 
-The contact and career forms currently perform client-side validation and display a local success message. They are not connected to an email service or backend.
+The contact form validates the entered information and opens the user's email app
+with a draft addressed to `info@cibleretour.com`. The subject, name, email address,
+and message are included. The user must send the email from their email app;
+the website cannot confirm whether the app opened or the email was sent. Form
+values remain available to copy if no email handler is configured or the draft
+is too long for the browser/email app's mailto support.
+
+The career form still displays a local success message only. Neither form is
+connected to an email service or backend.
 
 ## Project structure
 

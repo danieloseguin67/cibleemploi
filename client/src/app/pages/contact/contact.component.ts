@@ -19,7 +19,7 @@ export class ContactComponent {
   readonly ui = inject(UiService).ui;
 
   readonly content = toSignal(this.contentService.watch<ContactContent>('contact'), { initialValue: null });
-  readonly submitted = signal(false);
+  readonly mailRequested = signal(false);
 
   readonly form = this.fb.nonNullable.group({
     name: ['', Validators.required],
@@ -33,8 +33,19 @@ export class ContactComponent {
       this.form.markAllAsTouched();
       return;
     }
-    // Not wired to a backend endpoint yet; client-side validation only.
-    this.submitted.set(true);
-    this.form.reset();
+    const page = this.content();
+    if (!page) return;
+
+    const { name, email, subject, message } = this.form.getRawValue();
+    const body = [
+      `${page.form.nameLabel}: ${name}`,
+      `${page.form.emailLabel}: ${email}`,
+      '',
+      message.replace(/\r?\n/g, '\r\n')
+    ].join('\r\n');
+    const mailto = `mailto:info@cibleretour.com?subject=${encodeURIComponent(subject.replace(/[\r\n]+/g, ' '))}&body=${encodeURIComponent(body)}`;
+
+    window.location.href = mailto;
+    this.mailRequested.set(true);
   }
 }
