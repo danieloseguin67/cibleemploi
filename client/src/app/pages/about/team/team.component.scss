@@ -1,6 +1,6 @@
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
   gap: 1.5rem;
   margin-top: 1.5rem;
 }
@@ -10,6 +10,18 @@
   border-radius: 8px;
   padding: 1.25rem;
   border-left: 4px solid #0f5c8c;
+
+  .member-photo {
+    display: block;
+    width: 240px;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 8px;
+    margin: 0 auto 1rem;
+  }
 
   h2 {
     margin: 0 0 0.25rem;

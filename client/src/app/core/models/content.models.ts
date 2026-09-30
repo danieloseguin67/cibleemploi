@@ -66,6 +66,7 @@ export interface OrganizationContent {
 
 export interface TeamMember {
   name: string;
+  image?: string;
   role: string;
   quote: string;
   attribution?: string;

@@ -48,6 +48,9 @@ Build output is written to `client/dist/client/browser/`. Deploy that directory 
 
 ## GitHub Pages
 
+See the [GitHub Pages deployment guide](docs/github-pages-deployment.md) for setup,
+publishing steps, manual deployments, and troubleshooting.
+
 The root `.github/workflows/deploy.yml` workflow builds and deploys `main` to
 https://danieloseguin67.github.io/cibleemploi/ on each push, or manually from GitHub Actions.
 In the repository's Settings > Pages, select **GitHub Actions** as the source.
